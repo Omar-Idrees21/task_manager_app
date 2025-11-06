@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧩 Task Manager App
 
 ![App Icon](assets/icon.png)
@@ -81,3 +82,6 @@ assets/
 
 ⭐ *If you like this project, give it a star on GitHub!*  
 🔗 [View Project Repository](https://github.com/yourusername/task_manager_app)
+=======
+# task_manager_app
+>>>>>>> 08f0703af55572ee1a894540d6248b4897d39e72
